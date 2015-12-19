@@ -1,0 +1,80 @@
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.pdb
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Form1.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Properties.Resources.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.exe
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.pdb
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.add_patient.resources
+c:\users\proshanti\documents\visual studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.homepage.resources
+C:\Users\Proshanti\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.show_patient.resources
+C:\Users\Proshanti\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.assign_patient.resources
+C:\Users\Proshanti\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.treatment.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.exe
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.pdb
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.exe
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.pdb
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csprojResolveAssemblyReference.cache
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.add_patient.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.assign_patient.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.homepage.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.show_patient.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.treatment.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Form1.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Properties.Resources.resources
+C:\Users\Biplob\Documents\Visual Studio 2010\Projects\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csproj.GenerateResource.Cache
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.exe
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.pdb
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.exe
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.pdb
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csprojResolveAssemblyReference.cache
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.add_patient.resources
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.assign_patient.resources
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.homepage.resources
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.show_patient.resources
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.treatment.resources
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Form1.resources
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Properties.Resources.resources
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csproj.GenerateResource.Cache
+G:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.image_attachment.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.exe
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.pdb
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.exe
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.pdb
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csprojResolveAssemblyReference.cache
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.add_patient.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.assign_patient.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.homepage.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.image_attachment.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.show_patient.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.treatment.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Form1.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Properties.Resources.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csproj.GenerateResource.Cache
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.edit_patient.resources
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.exe.config
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\RdlCompile.cache
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\RdlCompile.compiled
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Interop.FOXITREADERLib.dll
+I:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csproj.ResolveComReference.cache
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.exe.config
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csproj.ResolveComReference.cache
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.exe
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.pdb
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.exe
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\bin\Debug\Biomedical Parameter Treatment.pdb
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csprojResolveAssemblyReference.cache
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.add_patient.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.assign_patient.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.edit_patient.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.homepage.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.image_attachment.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.show_patient.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.doctor.treatment.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Form1.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical_Parameter_Treatment.Properties.Resources.resources
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\Biomedical Parameter Treatment.csproj.GenerateResource.Cache
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\RdlCompile.cache
+H:\Biomedical Parameter Treatment\Biomedical Parameter Treatment\obj\x86\Debug\RdlCompile.compiled
